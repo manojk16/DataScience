@@ -6,10 +6,10 @@ If you find any issue feel free to file it
 Thanks  
 ## Jupyter Note-Books 
   
-<<<<<<< HEAD
-1. [Assignment_1.ipynb](#Assignment-1.ipynb)  
-2. [Demographic_Data_Analysis.ipynb](#Demographic-Data-Analysis.ipynb)  
-3. [Data_Visualization_qplot_in_R.ipynb](#Data-Visualization-qplot-in-R.ipynb)
+1. [Assignment_1.ipynb](https://github.com/manojk16/DataScience/blob/master/R_lang/Assignment_1.ipynb)  
+2. [Demographic_Data_Analysis.ipynb](https://github.com/manojk16/DataScience/blob/master/R_lang/Demographic_Data_Analysis.ipynb)  
+3. [Data_Visualization_qplot_in_R.ipynb](https://github.com/manojk16/DataScience/blob/master/R_lang/Data_Visualization_qplot_in_R.ipynb)
+4.  [Data_Visualization_Part_2_in_R](https://github.com/manojk16/DataScience/blob/master/R_lang/Data_Visualization_Part_2_in_R.ipynb)
 
 To Make the chart we have to have 3 building blocks and in total, we can have 7 blocks. Out of below seven blocks, the first 3 blocks are very Important.
 1. Data: First Thing which we need to make the chart
@@ -20,8 +20,3 @@ the data
 5. Facets: If some data is repeated after a fixed interval of time 
 6. Coordinates: Which coordinates are used to visualize the data 
 7. Theme: Theme like how the color is chosen, where is the legend, what are the main articles, text size, etc.
-=======
-1. [Assignment_1_Solution](https://github.com/manojk16/DataScience/blob/master/R_lang/Assignment_1.ipynb)  
-2. [Demographic_Data_Analysis](https://github.com/manojk16/DataScience/blob/master/R_lang/Demographic_Data_Analysis.ipynb)  
-3. [Data_Visualization_qplot_in_R](https://github.com/manojk16/DataScience/blob/master/R_lang/Data_Visualization_qplot_in_R.ipynb)
->>>>>>> 59cc8292480a0e6d5591f3ed35f6a9904c3ac6d5
