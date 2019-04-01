@@ -7,5 +7,5 @@ Thanks
 ## Jupyter Note-Books 
   
 1. [Assignment_1_Solution](https://github.com/manojk16/DataScience/blob/master/R_lang/Assignment_1.ipynb)  
-2. [Demographic_Data_Analysis](#Demographic-Data-Analysis.ipynb)  
-3. [Data_Visualization_qplot_in_R.ipynb](#Data-Visualization-qplot-in-R.ipynb)
+2. [Demographic_Data_Analysis](https://github.com/manojk16/DataScience/blob/master/R_lang/Demographic_Data_Analysis.ipynb)  
+3. [Data_Visualization_qplot_in_R.ipynb](https://github.com/manojk16/DataScience/blob/master/R_lang/Data_Visualization_qplot_in_R.ipynb)
