@@ -13,7 +13,7 @@ data, and have it learn to predict weather. In this setting, **what is T?**
        weather. 
  - [ ] None of these.
 
- # Question 2
+# # Question 2
  Suppose you are working on weather prediction, and your weather
 station makes one of three predictions for each day's weather:
 Sunny, Cloudy or Rainy. You'd like to use a learning algorithm
