@@ -1,5 +1,5 @@
 
-# Machine Learning by Andrew NG - Quiz Week-1
+# Machine Learning by Andrew NG - Quiz_1
 ## Question 1
 A computer program is said to learn from experience E with
 respect to some task T and some performance measure P if its performance on T, as measured by P, improves with experience E.
