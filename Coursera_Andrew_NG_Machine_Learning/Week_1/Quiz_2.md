@@ -21,7 +21,7 @@ Suppose we set $\theta_0 = -1$, $\theta_1 = 0.5$. What is $h_{\theta}(4)$?
 **Ans** :As we know $h_\theta(x) = \theta_0 + \theta_1x$ 
 put $$\theta_0 = -1$$  $$\theta_1 = 0.5$$ and  $$x = 4$$
 So after solving the simple equation we find that **$$h_{\theta}(4)=1$$**
-## Question 4 
+## Question 4  
 In the given figure, the cost function $J(\theta_0,\theta_1)$has been plotted against $\theta_0$​ and $\theta_1$​, as shown in 'Plot 2'. The contour plot for the same cost function is given in 'Plot 1'. Based on the figure, choose the correct options (check all that apply)
 ![](https://d396qusza40orc.cloudfront.net/ml/images/4.2-quiz-1.png)
 
