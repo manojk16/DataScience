@@ -12,18 +12,15 @@ For the training set given above (note that this training set may also be refere
 
 **Ans : 4**
 ## Question 2
-For this question, assume that we are using the training set from Q1. Recall our definition of the cost function was  $J(\theta_0, \theta_1) = \frac{1}{2m}\sum_{i=1}^m{(h_\theta(x^{(i)}) - y^{(i)})^2}$
+Suppose we set $\theta_0 = -1$, $\theta_1 = 0.5$. What is $h_{\theta}(4)$?
 
-What is J(0, 1)? In the box below
-Ans: In the above formula put m=4 and for each m find the of x anf y from given table in question 1, Then after solving we got $J(\theta_0, \theta_1)$=  $0.5$
-**Hence ans is $0.5$**
-
+**Ans**  :As we know $h_\theta(x) = \theta_0 + \theta_1x$ put $$\theta_0 = -1$$  $$\theta_1 = 0.5$$ and $$x = 4$$ So after solving the simple equation we find that  $$h_{\theta}(4)=1$$
 ## Question 3
 Suppose we set $\theta_0 = -1$, $\theta_1 = 0.5$. What is $h_{\theta}(4)$?
 
 **Ans** :As we know $h_\theta(x) = \theta_0 + \theta_1x$ 
 put $$\theta_0 = -1$$  $$\theta_1 = 0.5$$ and  $$x = 4$$
-So after solving the simple equation we find that **$$h_{\theta}(4)=1$$**
+So after solving the simple equation we find that $$h_{\theta}(4)=1$$
 ## Question 4  
 In the given figure, the cost function $J(\theta_0,\theta_1)$has been plotted against $\theta_0$​ and $\theta_1$​, as shown in 'Plot 2'. The contour plot for the same cost function is given in 'Plot 1'. Based on the figure, choose the correct options (check all that apply)
 ![](https://d396qusza40orc.cloudfront.net/ml/images/4.2-quiz-1.png)
